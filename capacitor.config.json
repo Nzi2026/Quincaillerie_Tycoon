@@ -1,0 +1,8 @@
+{
+  "appId": "com.votrenom.quincaillerietycoon",
+  "appName": "Quincaillerie Tycoon",
+  "webDir": "www",
+  "backgroundColor": "#101922",
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "never" }
+}
